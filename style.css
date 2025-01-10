@@ -1,0 +1,30 @@
+* {
+    background-color: #efe2ba;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: bold;
+    color: #f13c20;
+}
+
+.title.secondary {
+    font-size: 24px;
+}
+
+.recipe_link {
+    font-size: 36px;
+}
+
+.intro {
+    font-size: 24px;
+    color: #4056a1;
+}
+
+.recipe_picture {
+    width: 800px;
+    height: auto;
+    display: block;
+    margin: auto;
+}

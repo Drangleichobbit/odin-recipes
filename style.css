@@ -10,11 +10,13 @@
 }
 
 .title.secondary {
-    font-size: 24px;
+    font-size: 36px;
 }
 
-.recipe_link {
+.recipe_list {
     font-size: 36px;
+    display: inline-block;
+    text-align: center;
 }
 
 .intro {
@@ -27,4 +29,19 @@
     height: auto;
     display: block;
     margin: auto;
+}
+
+.lists {
+    width: auto;
+}
+
+.title,
+.centered_list,
+.lists {
+    text-align: center;
+}
+
+.lists .centered_list {
+    display: inline-block;
+    text-align: left;
 }
